@@ -12,3 +12,9 @@
 
 // }
 
+// function getElementvalueById(elementId){
+//     const element = document.getElementById(elementId);
+//     const elementValueText = element.innerText;
+//     const value = parseInt(elementValueText);
+//     return value;
+// }
