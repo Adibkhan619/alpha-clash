@@ -29,7 +29,7 @@ function handleKeyboardKeyUpEvent(event){
     // console.log('button pressed',playerPressed );
 
     // stop the game if player press Esc
-    if(playerPressed === 'Escape'){
+    if(playerPressed === 'Escaped'){
         gameOver();
     }
     // get the expected to press
